@@ -527,7 +527,7 @@
     <string name="prevent_phone_from_sleeping">Verhindere, dass das Gerät in den Ruhemodus wechselt, solange die App im Vordergrund läuft</string>
     <string name="skip_delete_confirmation">Verwende keinen Löschen-bestätigen-Dialog</string>
     <string name="enable_pull_to_refresh">Ermögliche \"Auffrischen\" durch Ziehen von der oberen Kante</string>
-    <string name="use_24_hour_time_format">Benutze 24-Stunden-Zählung</string>
+    <string name="use_24_hour_time_format">Benutze 24-Stunden-Zeitformat</string>
     <string name="change_date_and_time_format">Datums- und Zeitformat ändern</string>
     <string name="sunday_first">Beginne die Woche am Sonntag</string>
     <string name="widgets">Widgets</string>
